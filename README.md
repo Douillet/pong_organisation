@@ -18,9 +18,6 @@ Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changean
 
 ### Repo Vide :
 
-FRERE Maxime
-
-BORIE David
 
 
 
@@ -32,6 +29,8 @@ PAGNUCCO Anatole
 MICHEL Andréa
 
 DELLEL Bilal
+
+BORIE David
 
 CHATELIN Gaëtan
 
@@ -47,7 +46,22 @@ CALLEDE Vincent
 
 DI COSTANZO Yvain
 
-### Fichier .js manquant : 
+###Fichier .js manquant : 
 
 FONTANELLI Grégoire
 
+###Commentaires ("-" signifie qu'ils sont manquant sur un ou deux fichiers):
+
+Vincent Gauthier
+Romain -
+Brieux
+Anatole
+Gaëtan -
+Quentin Jeune
+Bilal
+Loïc
+Gregoire
+Mickaël
+Vincent Kalede
+Yvain
+David
