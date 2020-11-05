@@ -22,8 +22,6 @@ Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changean
 
 ### Readme vide :
 
-PARIS Quentin
-
 BORIE David
 
 ### lien menant à une erreur 404 :
